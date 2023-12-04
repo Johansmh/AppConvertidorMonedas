@@ -7,4 +7,4 @@ Esta es una aplicación creada con Html, Css y Angular
 * [linkedin](www.linkedin.com/in/johansmh)
 
 ## Ver ejemplo de la aplicación en el siguientes link
-* [appconvertidormonedasjsmh.netlify.app](appconvertidormonedasjsmh.netlify.app)
+* [https://appconvertidormonedasjsmh.netlify.app/](https://appconvertidormonedasjsmh.netlify.app/)
